@@ -6,7 +6,7 @@ The application identifies cross-realm opportunities by comparing item prices, e
 
 ---
 
-#Features
+# Features
 
 - Fetches live auction house data from the official Blizzard API  
 - Compares item prices across multiple realms and regions  
@@ -17,7 +17,7 @@ The application identifies cross-realm opportunities by comparing item prices, e
 
 ---
 
-#How It Works
+# How It Works
 
 1. The application retrieves auction house data for all realms in a region.
 2. It aggregates and normalizes item prices.
