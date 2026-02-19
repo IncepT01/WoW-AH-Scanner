@@ -1,4 +1,4 @@
-# World of Warcraft Auction House Arbitrage Analyzer
+# World of Warcraft Auction House Analyzer
 
 A Spring Boot application that analyzes auction house data across all World of Warcraft realms and regions using Blizzard’s official API.
 
